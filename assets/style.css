@@ -3,6 +3,7 @@ html,
 body {
   margin: 0px;
   padding: 0px;
+  background: linear-gradient(45deg, #031e00, #6cb5f37a);
 }
 
 /* Background color for the nav bar */
@@ -22,12 +23,12 @@ body {
 }
 /* changing color of the links on hover */
 .topnav a:hover {
-  background-color: black;
-  color: red;
+  background-color: #6cb5f37a;
+  color: #031e00;
 }
 /* add color to the active link */
 .topnav a.active {
-  background-color: black;
+  background-color: #6cb5f37a;
   color: white;
 }
 
