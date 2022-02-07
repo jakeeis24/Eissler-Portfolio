@@ -6,12 +6,25 @@ body {
   background: linear-gradient(45deg, #031e00, #6cb5f37a);
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  height: 100%;
 }
 /* now no space at the top of the page and looks better */
 header {
   text-align: center;
-  padding: 1em;
   font-size: 2rem;
+  color: beige;
+}
+header p {
+  font-size: 1.5rem;
+}
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(./images/pic2.jpg);
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
 }
 /* Background color for the nav bar */
 .topnav {
