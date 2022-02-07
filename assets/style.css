@@ -1,3 +1,10 @@
+/* removing white space on the edges of the webpage */
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
 /* Background color for the nav bar */
 .topnav {
   background-color: grey;
