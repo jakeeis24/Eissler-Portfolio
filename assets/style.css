@@ -4,8 +4,15 @@ body {
   margin: 0px;
   padding: 0px;
   background: linear-gradient(45deg, #031e00, #6cb5f37a);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
-
+/* now no space at the top of the page and looks better */
+header {
+  text-align: center;
+  padding: 1em;
+  font-size: 2rem;
+}
 /* Background color for the nav bar */
 .topnav {
   background-color: grey;
@@ -29,7 +36,7 @@ body {
 /* add color to the active link */
 .topnav a.active {
   background-color: #6cb5f37a;
-  color: white;
+  color: #031e00;
 }
 
 .profile-pic {
