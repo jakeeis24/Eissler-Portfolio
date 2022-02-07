@@ -30,3 +30,7 @@ body {
   background-color: black;
   color: white;
 }
+
+.profile-pic {
+  width: 40%;
+}
