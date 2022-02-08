@@ -3,6 +3,7 @@
   font-family: "Righteous", cursive;
 }
 
+/* making font universal at 10px */
 html {
   font-size: 62.5%;
 }
@@ -19,4 +20,62 @@ nav {
   background: darkolivegreen;
   min-height: 10vh;
   font-size: 2rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: orangered;
+  padding: 1.5rem;
+}
+
+.nav-links li {
+  display: inline;
+}
+
+section {
+  flex-direction: column;
+  width: 100%;
+  border-radius: 1rem;
+  padding: 1.5rem 2.5rem;
+  width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  border-radius: 1rem;
+  padding: 1.5rem 2.5rem;
+  width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+}
+.project-img {
+  width: 75%;
+  border-radius: 5rem;
+  margin-bottom: 1.5rem;
+}
+.project-header {
+  font-weight: 600;
+  color: blue;
+  letter-spacing: 0.1rem;
+}
+.project-desc-item {
+  list-style-type: none;
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: 0.1rem;
+  padding: 1.5rem 0;
+}
+
+.project-button {
+  border: 0.4rem solid red;
+  border-radius: 1rem;
+  font-size: 1.5rem;
+  text-decoration: none;
+  padding: 1.5rem 3.5rem;
+  display: inline-block;
+  color: orangered;
+  background: darkolivegreen;
 }
