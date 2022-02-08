@@ -55,6 +55,7 @@ section {
   width: 75%;
   border-radius: 5rem;
   margin-bottom: 1.5rem;
+  margin-top: 3rem;
 }
 .project-header {
   font-weight: 600;
@@ -70,7 +71,6 @@ section {
 }
 
 .project-button {
-  border: 0.4rem solid red;
   border-radius: 1rem;
   font-size: 1.5rem;
   text-decoration: none;
