@@ -79,3 +79,15 @@ section {
   color: orangered;
   background: darkolivegreen;
 }
+
+@media (max-width: 90rem) {
+  nav {
+    flex-direction: column;
+  }
+}
+
+@media (min-width: 90rem) {
+  .container {
+    flex-direction: row;
+  }
+}
