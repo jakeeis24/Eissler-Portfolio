@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: "Righteous", cursive;
+  /* font-family: "Righteous", cursive; */
 }
 
 /* making font universal at 10px */
@@ -8,6 +8,7 @@ html {
   font-size: 62.5%;
   background: #2b2b2b;
   scroll-behavior: smooth;
+  font-family: "Righteous", cursive;
 }
 
 body {
