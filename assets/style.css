@@ -33,6 +33,12 @@ nav a {
   display: inline;
 }
 
+nav a:hover {
+  background-color: #e3bd81;
+  padding: 0.1rem;
+  font-size: 2.5rem;
+}
+
 section {
   flex-direction: column;
   width: 100%;
@@ -58,6 +64,9 @@ section {
   margin-bottom: 1.5rem;
   margin-top: 3rem;
 }
+.project-img:hover {
+  border: 0.2rem solid #e3bd81;
+}
 .project-header {
   font-weight: 600;
   color: blue;
@@ -79,6 +88,9 @@ section {
   display: inline-block;
   color: white;
   background: #4a7ebd;
+}
+.project-button:hover {
+  background-color: #e3bd81;
 }
 .project-info {
   background: grey;
