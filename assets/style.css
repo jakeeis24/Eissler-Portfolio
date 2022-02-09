@@ -39,8 +39,12 @@ nav a:hover {
   background-color: #e3bd81;
   padding: 0.1rem;
   font-size: 2.5rem;
+  border-radius: 0.5rem;
 }
 
+#myname {
+  font-size: 3rem;
+}
 section {
   flex-direction: column;
   width: 100%;
