@@ -69,8 +69,9 @@ section {
 }
 .project-header {
   font-weight: 600;
-  color: blue;
+  color: #e3bd81;
   letter-spacing: 0.1rem;
+  font-size: 2rem;
 }
 .project-desc-item {
   list-style-type: none;
