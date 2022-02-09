@@ -6,6 +6,7 @@
 /* making font universal at 10px */
 html {
   font-size: 62.5%;
+  background: #2b2b2b;
 }
 
 body {
@@ -17,14 +18,14 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: darkolivegreen;
+  background: #4a7ebd;
   min-height: 10vh;
   font-size: 2rem;
 }
 
 nav a {
   text-decoration: none;
-  color: orangered;
+  color: white;
   padding: 1.5rem;
 }
 
@@ -76,8 +77,13 @@ section {
   text-decoration: none;
   padding: 1.5rem 3.5rem;
   display: inline-block;
-  color: orangered;
-  background: darkolivegreen;
+  color: white;
+  background: #4a7ebd;
+}
+.project-info {
+  background: grey;
+  border-radius: 5rem;
+  margin: 1.5rem 3rem;
 }
 
 @media (max-width: 90rem) {
