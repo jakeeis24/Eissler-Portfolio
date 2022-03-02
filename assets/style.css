@@ -33,6 +33,18 @@ nav a {
 h1 {
   font-size: 3.5rem;
   color: antiquewhite;
+  margin-bottom: 1rem;
+}
+/* h2 {
+  font-size: 1.5rem;
+  color: black;
+} */
+p {
+  font-size: 1.5rem;
+  color: black;
+}
+a {
+  color: white;
 }
 
 .nav-links li {
