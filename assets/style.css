@@ -42,6 +42,7 @@ h1 {
 p {
   font-size: 1.5rem;
   color: black;
+  padding: 1rem 1rem;
 }
 a {
   color: white;
@@ -97,10 +98,10 @@ section {
 }
 .project-desc-item {
   list-style-type: none;
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   font-weight: 600;
   letter-spacing: 0.1rem;
-  padding: 1.5rem 0;
+  padding: 0.5rem 0;
 }
 
 .project-button {
@@ -119,9 +120,12 @@ section {
   background: grey;
   border-radius: 5rem;
   margin: 1.5rem 3rem;
-  padding: 2rem;
+  padding: 6rem;
 }
-
+.app-pic {
+  width: 50%;
+  height: 69%;
+}
 @media (max-width: 90rem) {
   nav {
     flex-direction: column;
