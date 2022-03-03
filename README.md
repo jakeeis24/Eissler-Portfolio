@@ -1,5 +1,7 @@
 # Eissler-Portfolio
 
+Link to deployed application: https://jakeeis24.github.io/Eissler-Portfolio/
+
 # Updated 03/02/22
 
 I updated my portfolio to include links in the contact card to to all of my pertinent contact information. I removed all the links to third party websites that were ultimately serving as just test links to verify I had everything working properly.
@@ -9,6 +11,8 @@ I updated my portfolio to include links in the contact card to to all of my pert
 With the knowledge I now have, I am not a big fan of the current layout of my portfolio. The initial page was created prior to having knowledge of bootstrap and JavaScript, so I am thinking of making a new portfolio page which will be much more interactive and user friendly (not to mention much prettier), especially on mobile. When that happens, I will keep this portfolio alive just to showcase my progress, but I will include a link in this readme to the new portfolio and I will make sure it does not get missed.
 
 It is wild to think about how much I have learned in the past month. The grind is real and I cannot wait to see where I go with this portfolio!
+![alt text](./assets/images/update-pic.jpg)
+![alt text](./assets/images/update-pic-mobile.jpg)
 
 # Version 1.0 (February 2022)
 
