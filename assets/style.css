@@ -123,8 +123,9 @@ section {
   padding: 6rem;
 }
 .app-pic {
-  width: 50%;
-  height: 69%;
+  width: 70%;
+  height: auto;
+  border-radius: 4rem;
 }
 @media (max-width: 90rem) {
   nav {
