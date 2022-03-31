@@ -2,6 +2,11 @@
 
 Link to deployed application: https://jakeeis24.github.io/Eissler-Portfolio/
 
+# Updated 03/30/22
+Added link and card for project 2 from the bootcamp.
+
+Still to do a complete overhaul of this page but I am waiting until we learn React.
+
 # Updated 03/02/22
 
 I updated my portfolio to include links in the contact card to to all of my pertinent contact information. I removed all the links to third party websites that were ultimately serving as just test links to verify I had everything working properly.
